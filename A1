@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+cabal exec ghci src/TTT/A1.hs
